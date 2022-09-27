@@ -23,3 +23,18 @@ h2{
     color: white;
 }
 
+h3{
+    font: 600 1.5em;
+}
+
+h4{
+    font: 400 1.5em;   
+}
+
+h5{
+    font: italic 400 1em;   
+} 
+
+ul{
+    font: 1em;
+}
