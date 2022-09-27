@@ -1,0 +1,25 @@
+body {
+    font: 400 1em open-sans, arial, sans-serif;
+    color: #444;
+}
+
+h1{
+    font: 3em;
+    color: #33485e;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+strong{
+    font: 1.5em;
+    color: #33485e;
+    text-transform: uppercase;
+}
+
+h2{
+    font: 1.5em;
+    background-color: #33485e;
+    text-transform: uppercase;
+    color: white;
+}
+
