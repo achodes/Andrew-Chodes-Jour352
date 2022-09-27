@@ -1,40 +1,42 @@
+/* styles for my resume */
+/* set font and color */
 body {
     font: 400 1em open-sans, arial, sans-serif;
     color: #444;
 }
-
+/* set font, color,font, alignment */
 h1{
     font: 3em;
     color: #33485e;
     text-transform: uppercase;
     text-align: center;
 }
-
+/* set font, color, uppercase */
 strong{
     font: 1.5em;
     color: #33485e;
     text-transform: uppercase;
 }
-
+/* set font, back color, */
 h2{
     font: 1.5em;
     background-color: #33485e;
     text-transform: uppercase;
     color: white;
 }
-
+/* set font */
 h3{
     font: 600 1.5em;
 }
-
+/* set font, size */
 h4{
     font: 400 1.5em;   
 }
-
+/* set font, italic */
 h5{
     font: italic 400 1em;   
 } 
-
+/* set font size  */
 ul{
     font: 1em;
 }
