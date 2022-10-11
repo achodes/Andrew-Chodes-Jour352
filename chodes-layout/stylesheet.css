@@ -1,0 +1,41 @@
+#content {
+    margin: 0 auto;
+    width: 900px; 
+}
+
+#byline {
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+}
+
+#headline   
+{
+    font-family: Helvetica, sans-serif;
+    font-size: 28px;
+}
+p {
+    font-family: Georgia, serif;
+    font-size: 13px; 
+}
+.captionedimage {
+    margin-top: 13px;
+    width: 100%;
+}
+.captionedimage img {
+    width: 100%;
+}
+.captionedimage p {
+    margin-top: 0;
+}
+
+.captionedimage h4 {
+    font-weight: 400;
+    margin: 0;
+}
+.captionedimage h2 {
+    margin-bottom: 0;
+}
+blockquote {
+font-size: 28px;
+}
