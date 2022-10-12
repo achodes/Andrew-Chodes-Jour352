@@ -1,7 +1,9 @@
 /* styles for my resume */
 /* set font and color */
 body {
-    font: 400 1em open-sans, arial, sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    font-family: open-sans, arial, sans-serif;
     color: #444;
 }
 
@@ -14,7 +16,7 @@ body {
 
 /* set font, color,font, alignment */
 #name {
-    font: 3em;
+    font-size: 3em;
     color: #33485e;
     text-transform: uppercase;
     text-align: center;
@@ -26,7 +28,7 @@ body {
 
 /* set font, color, uppercase */
 #title {
-    font: 1.5em;
+    font-size: 1.5em;
     color: #33485e;
     text-transform: uppercase;
     font-weight: 600;
@@ -36,7 +38,7 @@ body {
 
 /* set font, back color, */
 div.sectionheader {
-    font: 1.5em;
+    font-size: 1.5em;
     background-color: #33485e;
     text-transform: uppercase;
     color: white;
@@ -47,24 +49,28 @@ div.sectionheader {
 
 /* set font */
 div.jobtitle {
-    font: 600 1.5em;
+    font-size: 1.5em;
+    font-weight: 600;
 }
 
 /* set font, size */
 div.organization {
-    font: 400 1.25em;   
+    font-size: 1.25em;
+    font-weight: 400;   
 
 }
 
 /* set font, italic */
 div.date {
-    font: italic 400 1em; 
-    margin: 10px 0;  
+    font-size: 1em;
+    font-weight: 400;
+    font-style: italic;
+    margin: 10px 0;
 } 
 
 /* set font size  */
 ul.menu {
-    font: 1em;
+    font-size: 1em;
     margin: 0;
     padding: 0;
     text-align: center;
