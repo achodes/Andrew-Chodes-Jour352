@@ -13,7 +13,7 @@ body {
 }
 
 /* set font, color,font, alignment */
-div#name{
+#name {
     font: 3em;
     color: #33485e;
     text-transform: uppercase;
@@ -23,8 +23,9 @@ div#name{
     width: 60%;
     min-width: 300px;
 }
+
 /* set font, color, uppercase */
-#title{
+#title {
     font: 1.5em;
     color: #33485e;
     text-transform: uppercase;
@@ -32,8 +33,9 @@ div#name{
     text-align: center;
     margin: 20px 0 0;
 }
+
 /* set font, back color, */
-div.sectionheader{
+div.sectionheader {
     font: 1.5em;
     background-color: #33485e;
     text-transform: uppercase;
@@ -42,44 +44,51 @@ div.sectionheader{
     width: 70%;
     min-width: 300px;
 }
+
 /* set font */
-div.jobtitle{
+div.jobtitle {
     font: 600 1.5em;
 }
+
 /* set font, size */
-div.organization{
+div.organization {
     font: 400 1.25em;   
 
 }
+
 /* set font, italic */
-div.date{
+div.date {
     font: italic 400 1em; 
-    margin: 10px 0 ;  
+    margin: 10px 0;  
 } 
+
 /* set font size  */
-ul.menu{
+ul.menu {
     font: 1em;
     margin: 0;
     padding: 0;
     text-align: center;
 }
-p.description{
+
+p.description {
     margin: 10px 0;
 }
-ul.menu li{
+
+ul.menu li {
     display: inline;
 }
-#degrees{
+
+#degrees {
     margin: 5px 0 0;
 }
-#do{
+
+#do {
     margin: 5px 0 0;
 }
-p.top{
+
+p.top {
     width: 60%;
     min-width: 300px;
     margin: 0 auto;
     margin-bottom: 30px;
-
-
 }
