@@ -4,39 +4,82 @@ body {
     font: 400 1em open-sans, arial, sans-serif;
     color: #444;
 }
+
+#container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
 /* set font, color,font, alignment */
-h1{
+div#name{
     font: 3em;
     color: #33485e;
     text-transform: uppercase;
     text-align: center;
+    border: 1px #33485e;
+    margin: 0 auto;
+    width: 60%;
+    min-width: 300px;
 }
 /* set font, color, uppercase */
-strong{
+#title{
     font: 1.5em;
     color: #33485e;
     text-transform: uppercase;
+    font-weight: 600;
+    text-align: center;
+    margin: 20px 0 0;
 }
 /* set font, back color, */
-h2{
+div.sectionheader{
     font: 1.5em;
     background-color: #33485e;
     text-transform: uppercase;
     color: white;
+    margin: 20px 0 10px;
+    width: 70%;
+    min-width: 300px;
 }
 /* set font */
-h3{
+div.jobtitle{
     font: 600 1.5em;
 }
 /* set font, size */
-h4{
-    font: 400 1.5em;   
+div.organization{
+    font: 400 1.25em;   
+
 }
 /* set font, italic */
-h5{
-    font: italic 400 1em;   
+div.date{
+    font: italic 400 1em; 
+    margin: 10px 0 ;  
 } 
 /* set font size  */
-ul{
+ul.menu{
     font: 1em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+p.description{
+    margin: 10px 0;
+}
+ul.menu li{
+    display: inline;
+}
+#degrees{
+    margin: 5px 0 0;
+}
+#do{
+    margin: 5px 0 0;
+}
+p.top{
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+
+
 }
