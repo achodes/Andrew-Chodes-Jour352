@@ -1,0 +1,50 @@
+1. <a href="https://www.google.com/">Google</a>
+
+2. Describe the purpose of a DIV tag? It divides the sections of a web page with the ssame conceots together.
+
+3. Basic structure
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    Page content goes here.
+  </body>
+</html>
+
+4. In the heading
+
+5. In the body
+
+6.  <div class="graphbox">/div>
+    <div id="name">/div>
+ 
+        7.  
+
+<div id="apples" class="fruit"></div>
+
+ 
+
+
+8. 
+
+<div class="fruit"/div> {
+    color: #000000;
+}
+
+
+9.  
+
+ <img> tag 
+ 
+
+
+10.  
+
+To change the style based on whether someone is using a phone or computer to view web page
+
+11. Sans-serif includes lines in the font
+
+12. #FFCC33
+ 
