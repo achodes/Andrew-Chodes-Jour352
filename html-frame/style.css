@@ -20,15 +20,17 @@ p {
 }
 .captionedimage {
     margin-top: 13px;
-    width: 100%;
-}
-.captionedimage img {
     width: 75%;
     margin: auto;
     display: flex;
+    flex-direction: column;
+}
+.captionedimage img {
+    width: 100%;
 }
 .captionedimage p {
     margin-top: 0;
+    color: gray;
 }
 
 .captionedimage h4 {
